@@ -193,6 +193,7 @@ const LoginPage = () => {
             onClick={() => handleOpenIdLogin()}
             variant="contained"
             color="secondary"
+            
           >
             {t('loginOpenId')}
           </Button>
