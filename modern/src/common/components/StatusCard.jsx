@@ -61,7 +61,7 @@ const useStyles = makeStyles((theme) => ({
     overflow: 'auto',
   },
   negative: {
-    color: theme.palette.colors.negative,
+    color: theme.palette.colors,
   },
   icon: {
     width: '25px',
